@@ -1,3 +1,5 @@
+# Push_swap
+
 The project is composed of 2 programs: push_swap and checker.
 
 The push_swap program will receive as an argument the stack a formatted as a list of integers. The first argument should be at the top of the stack.
